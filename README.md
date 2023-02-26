@@ -5,7 +5,7 @@ National Iranian Flag
 
 - Proportion: 4:7
 - Colors: Green (#239F40)	White (#FFFFFF)	Red (#CE1126)
-- Emblem: The Lion and Sun
+- Emblem: The Lion and Sun (Modern design)
 
 # Links
 
